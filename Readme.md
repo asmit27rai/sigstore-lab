@@ -69,7 +69,7 @@ Initialize the project
 
 ```bash
 mkdir devcon-sigstore-demo && cd devcon-sigstore-demo
-forge init .
+forge init --no-git .
 ```
 
 Write the contract in `src/Counter.sol`
