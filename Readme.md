@@ -49,12 +49,6 @@ https://cloud.google.com/application/web3/faucet/ethereum/sepolia
 
 Get an RPC url from Infura or Alchemy for the Ethereum network, Sepolia included
 
-Create a demo wallet, never use a wallet holding real funds
-
-```bash
-cast wallet new
-```
-
 Set environment variables
 
 ```bash
